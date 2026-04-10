@@ -12,13 +12,13 @@
 
 | № | Тема | Ключевые концепции |
 |:---:|:---|:---|
-| 1 | **[Основы проектирования](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%201.pptx)** | Классификация ПО, клиент-серверное взаимодействие, роль архитектуры, KISS, DRY. |
-| 2 | **[Desktop: XAML и MVVM](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%202.pptx)** | Эволюция Desktop (WinForms, WPF, Avalonia), XAML, паттерн MVVM, `ICommand`, Data Binding. |
-| 3 | **[Паттерны GoF (Часть 1)](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%203.pptx)** | Порождающие и структурные паттерны: Singleton, Factory Method, Decorator, Adapter, Facade. |
+| 1 | **[Основы проектирования](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%201.pptx)** | Классификация ПО, клиент-серверное взаимодействие, роль архитектуры, KISS, DRY. |
+| 2 | **[Desktop: XAML и MVVM](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%202.pptx)** | Эволюция Desktop (WinForms, WPF, Avalonia), XAML, паттерн MVVM, `ICommand`, Data Binding. |
+| 3 | **[Паттерны GoF (Часть 1)](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%203.pptx)** | Порождающие и структурные паттерны: Singleton, Factory Method, Decorator, Adapter, Facade. |
 | 4 | **[Паттерны GoF (Часть 2)](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%204.pptx)** | Поведенческие паттерны: Strategy, Observer, Command, State. |
-| 5 | **[Web: ASP.NET Core MVC](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%205.pptx)** | Протокол HTTP, маршрутизация, контроллеры, представления Razor, Tag Helpers, Model Binding. |
-| 6 | **[Работа с БД: EF Core](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%206.pptx)** | Понятие ORM, проектирование моделей (Rich vs Anemic), `DbContext`, миграции, CRUD операции. |
-| 7 | **[Внедрение зависимостей](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%207.pptx)** | Принцип IoC, Dependency Injection (DI), жизненные циклы (Transient, Scoped, Singleton). |
+| 5 | **[Web: ASP.NET Core MVC](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%205.pptx)** | Протокол HTTP, маршрутизация, контроллеры, представления Razor, Tag Helpers, Model Binding. |
+| 6 | **[Работа с БД: EF Core](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%206.pptx)** | Понятие ORM, проектирование моделей (Rich vs Anemic), `DbContext`, миграции, CRUD операции. |
+| 7 | **[Внедрение зависимостей](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%207.pptx)** | Принцип IoC, Dependency Injection (DI), жизненные циклы (Transient, Scoped, Singleton). |
 | 8 | **[Clean Architecture](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F%202%20%D0%BB%D0%B5%D0%BA%208.pptx)** | Разделение по слоям (Domain, Application, Infrastructure, API), DTO, REST API, Swagger, Docker. |
 
 ---
@@ -27,10 +27,10 @@
 
 | № | Тема | Задание (Docx) |
 |:---:|:---|:---:|
-| 1 | Интерактивное Desktop-приложение (MVVM) | [Скачать ЛР №1](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.docx) |
-| 2 | Реализация паттернов проектирования GoF | [Скачать ЛР №2](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.docx) |
-| 3 | Web-приложение на ASP.NET Core + EF Core | [Скачать ЛР №3](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.docx) |
-| 4 | Реализация Веб-сервиса (Clean Architecture) | [Скачать ЛР №4](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.docx) |
+| 1 | Интерактивное Desktop-приложение (MVVM) | [Скачать ЛР №1](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.docx) |
+| 2 | Реализация паттернов проектирования GoF | [Скачать ЛР №2](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.docx) |
+| 3 | Web-приложение на ASP.NET Core + EF Core | [Скачать ЛР №3](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.docx) |
+| 4 | Реализация Веб-сервиса (Clean Architecture) | [Скачать ЛР №4](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.docx) |
 
 ---
 
@@ -38,10 +38,10 @@
 
 | № | Тема | Задание (Docx) |
 |:---:|:---|:---:|
-| 1 | Проектирование архитектуры MVVM | [Скачать ПР №1](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.docx) |
-| 2 | Архитектурное проектирование GoF | [Скачать ПР №2](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.docx) |
-| 3 | Проектирование REST API и схемы БД | [Скачать ПР №3](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.docx) |
-| 4 | Аудит кода и Clean Architecture рефакторинг | [Скачать ПР №4](https://github.com/DaniilKlyukin/OOP-2/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.docx) |
+| 1 | Проектирование архитектуры MVVM | [Скачать ПР №1](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.docx) |
+| 2 | Архитектурное проектирование GoF | [Скачать ПР №2](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.docx) |
+| 3 | Проектирование REST API и схемы БД | [Скачать ПР №3](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.docx) |
+| 4 | Аудит кода и Clean Architecture рефакторинг | [Скачать ПР №4](https://github.com/DaniilKlyukin/OOP-6/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.docx) |
 
 ---
 
